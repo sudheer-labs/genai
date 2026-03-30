@@ -1,0 +1,14 @@
+openai
+youtube-transcript-api
+python-dotenv
+tiktok-api
+nltk
+transformers
+torch
+psycopg2-binary
+sqlalchemy
+pgvector
+sentence-transformers
+fastapi
+uvicorn
+gradio # == 6.10.0
